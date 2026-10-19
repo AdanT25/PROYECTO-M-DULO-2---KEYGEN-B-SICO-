@@ -1,4 +1,4 @@
-# PROYECTO-M-DULO-2---KEYGEN-Basico
+# PROYECTO MODULO 2 KEYGEN BASICO
 Link de video: https://youtu.be/NOEsu9RexK0
 Torres Enriquez Braulio Adan
 Descripción del proyecto: Generador de llaves (keygen) estructurado en lenguaje ensamblador x86-64. El programa utiliza la API de Windows para leer una cadena y calcula una llave única utilizando la sumatoria iterativa de sus códigos ASCII y una operación lógica XOR adicional para fortalecer la validación.
